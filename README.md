@@ -17,7 +17,7 @@ I own Maverick DataWorks LLC, my independent consulting business. This GitHub pr
 
 My collections are being organized by technology and by the problem each example solves. Public examples will be added incrementally.
 
-- power-query-toolkit: Power Query M functions, queries, and transformations.
+- [power-query-toolkit](https://github.com/kael-dowdy/power-query-toolkit): Power Query M functions, queries, and transformations.
 - sql-toolkit: SQL scripts and database utilities, as published.
 - dax-toolkit: DAX calculations and examples, as published.
 
